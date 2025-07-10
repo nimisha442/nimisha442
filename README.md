@@ -38,8 +38,18 @@ Hi there!<br>
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nimisha442&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=nimisha442&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🤖 Featured AI Code Snippet:
+```python
+# AI Text Classification using Hugging Face Transformers
+
+from transformers import pipeline
+
+classifier = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english")
+
+text = "Generative AI is transforming the future!"
+result = classifier(text)
+
+print(result)
+# Output: [{'label': 'POSITIVE', 'score': 0.9998}]
