@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>
+Hi there👋<br>
 🔍 I’m currently working on an AI-based Job Portal<br>
 🧠 I’m currently learning Generative AI (GenAI)<br>
 🤝 I’m looking to collaborate on AI/ML and GenAI projects on GitHub<br>
