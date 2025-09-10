@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi there👋<br>
-🔍 I’m currently working on an AI-based Job Portal<br>
+🔍 I’m a Data Analyst Fresher passionate about turning data into insights<br>
 🧠 I’m currently learning Generative AI (GenAI)<br>
-🤝 I’m looking to collaborate on AI/ML and GenAI projects on GitHub<br>
-📚 I’m looking for help with RAG, LLM integration, and voice-based AI systems<br>
-💬 Ask me about Python, Machine Learning, or AI project ideas<br>
+🤝I’m looking to collaborate on Data Analytics and Visualization projects on GitHub<br>
+📚I’m exploring real-world datasets to build dashboards and analytical reports<br>
+💬 Ask me about Python, SQL queries, or beginner-friendly Data Analysis projects<br>
 📫 How to reach me: nimishakumaran263@gmail.com
 
 ## 🌐 Socials:
